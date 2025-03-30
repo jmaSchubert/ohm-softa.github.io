@@ -1,9 +1,0 @@
-@startuml Interfaces
-interface InterfaceA {
-
-}
-
-class ClassA implements InterfaceA {
-    
-}
-@enduml

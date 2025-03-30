@@ -1,0 +1,15 @@
+@startuml Packages
+
+package ohm.softa {
+    class ClassA {
+
+    }
+
+    package subpackage {
+        class ClassB {
+
+        }
+    }
+}
+
+@enduml

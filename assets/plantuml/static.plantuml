@@ -1,8 +1,0 @@
-@startuml StaticFieldsMethods
-
-class ClassA {
-    -{static} staticField: int
-    +{static} staticMethod: void
-}
-
-@enduml
